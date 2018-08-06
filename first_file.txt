@@ -3,6 +3,12 @@ first file
 3rd file
 4th file
 5th file
+6th file
+7th file
+
+
+done my changes.to be mearged with master
 
 added 8th and 9th 
 final copy
+
